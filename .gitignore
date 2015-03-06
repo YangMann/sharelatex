@@ -21,3 +21,6 @@ db.sqlite
 
 .DS_Store
 .vagrant
+
+.idea
+*.iml
