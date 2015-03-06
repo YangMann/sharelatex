@@ -2,6 +2,7 @@ ShareLaTeX
 ==========
 
 This repo is forked from [ShareLaTeX](https://github.com/sharelatex/sharelatex).
+
 [ShareLaTeX](https://www.sharelatex.com) is an open-source online real-time collaborative LaTeX editor. We run a hosted version at http://www.sharelatex.com, but you can also run your own local version, and contribute to the development of ShareLaTeX.
 
 *[If you want help installing and maintaining ShareLaTeX at your university or workplace, we offer an officially supported version called ShareLaTeX Server Pro. It also comes with extra security and admin features. Click here to find out more!](https://www.sharelatex.com/university/onsite.html)*
